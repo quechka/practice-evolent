@@ -1,0 +1,5 @@
+com\example\restful\dto\Message.class
+com\example\restful\controller\PersonController.class
+com\example\restful\RestfulApplication.class
+com\example\restful\dto\Person.class
+com\example\restful\controller\MessageController.class
